@@ -62,7 +62,7 @@ Missing values were carefully handled using statistically sound imputation strat
   - Strong baseline performance on tabular data
 
 ### 🔹 Training Strategy
-- Train-validation split using scikit-learn
+- Train-validation split done manually
 - Model trained on processed feature matrix
 - Evaluation using accuracy metric
 
