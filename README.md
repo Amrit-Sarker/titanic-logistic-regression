@@ -80,7 +80,6 @@ This score demonstrates a strong baseline performance without advanced feature e
 ## 🔍 Key Insights
 
 - Gender is the most influential survival predictor
-- Socio-economic status (Pclass) strongly impacts survival probability
 - Simple linear models can perform competitively with proper preprocessing
 
 ---
@@ -91,7 +90,7 @@ This score demonstrates a strong baseline performance without advanced feature e
 - Pandas
 - NumPy
 - Scikit-learn
-- Jupyter Notebook / Kaggle Notebook
+- Jupyter Notebook 
 
 ---
 
@@ -113,7 +112,8 @@ This project demonstrates how a **well-structured machine learning pipeline** ca
 
 ## 👨‍💻 Author
 
-Applied Statistics & Data Science Student  
+**Amrit Sarker**
+Applied Statistics & Data Science,   
 University of Dhaka  
 
 ---
