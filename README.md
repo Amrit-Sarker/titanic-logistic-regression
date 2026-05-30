@@ -112,8 +112,7 @@ This project demonstrates how a **well-structured machine learning pipeline** ca
 
 ## 👨‍💻 Author
 
-**Amrit Sarker** 
-Applied Statistics & Data Science,   
-University of Dhaka  
-
+### **Amrit Sarker**  
+Applied Statistics & Data Science  
+University of Dhaka
 ---
